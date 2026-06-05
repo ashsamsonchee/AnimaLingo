@@ -1,0 +1,20 @@
+[
+  {
+    "id": "anim_01",
+    "name": "Lion",
+    "category": "Safari",
+    "imageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=500",
+    "choices": ["Tiger", "Lion", "Elephant", "Monkey"],
+    "correctAnswer": "Lion",
+    "fact": "Lions live in big family groups called prides, and they love to take long naps in the shade!"
+  },
+  {
+    "id": "anim_02",
+    "name": "Clownfish",
+    "category": "Ocean",
+    "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=500",
+    "choices": ["Shark", "Whale", "Clownfish", "Octopus"],
+    "correctAnswer": "Clownfish",
+    "fact": "Clownfish live inside safe, wavy sea anemones that protect them from bigger fish!"
+  }
+]

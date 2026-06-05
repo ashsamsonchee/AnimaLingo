@@ -1,0 +1,16 @@
+/* 🚀 THE ULTIMATE ANTI-GAP RESET */
+html, body, #root {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-height: 100vh;
+  background-color: #0f172a !important; /* Forces the browser body to match your theme */
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+/* Force strip all default layout paddings from hidden parent containers */
+div {
+  box-sizing: border-box;
+}
